@@ -1,8 +1,3 @@
-import helloWorld from './helloWorld.js';
-
-async function messages() {
-    const msg = await helloWorld();
-    console.log(msg);
-}
-
-messages();
+//Belajar Git pull untuk mensinkronkan disini dengan di lokal
+console.log ("Hello git and Github");
+console.log ("Hello coba lagi");
